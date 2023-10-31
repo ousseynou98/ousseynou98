@@ -1,14 +1,24 @@
-import SoftwareDeveloper from 'ousseynou';
-import { Languages, Frameworks } from 'ousseynou/skills';
+<p align="center">
+  <img src="your-image-url-here" alt="Munaf Aqeel Mahdi">
+</p>
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Ousseynou DJITE';
-  title    = 'Software Developer';
-  location = 'Dakar, Senegal';
-}
+<p align="center">
+  <a href="your-blog-url-here">Blog</a> •
+  <a href="your-linkedin-url-here">LinkedIn</a> •
+  <a href="your-twitter-url-here">Twitter</a> •
+  <a href="your-youtube-url-here">YouTube</a>
+</p>
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript', 'PHP', ...Languages];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React','Vue','Laravel','Next.js','Nest.js', ...Frameworks];
-}
+```markdown
+# Munaf Aqeel Mahdi
+
+👋 Hi there! I'm Munaf Aqeel Mahdi, a Senior Software Developer based in Babil, Iraq.
+
+## Skills
+
+- **Languages**: JavaScript, TypeScript, PHP, and more.
+- **Databases**: MySQL, MongoDB, PostgreSQL.
+- **Frameworks**: Vue, React, Next.js, Laravel, Nest.js, and more.
+
+Feel free to connect with me on my social media profiles or check out my blog for more content!
+
